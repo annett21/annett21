@@ -24,3 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+
+![Snake animation](https://github.com/annett21/annett21/blob/output/github-contribution-grid-snake.svg)
