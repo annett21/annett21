@@ -25,5 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annett21)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/annett21/annett21/blob/output/github-contribution-grid-snake.svg)
