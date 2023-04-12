@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annett21
+- 👋 Hi, I’m Hanna
 - 🌱 I’m currently learning Python, Django REST, Postgresql, Flask, SQLAlchemy, Celery, Redis
 
 <!---
