@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanna
 - 🌱 I’m currently learning FastApi, SQLModel, SQLAlchemy
-- :thought_balloon: In my projects I use Python, Django REST, Postgresql, Flask, Celery, Redis
+- :thought_balloon: I use Python, Django REST, Postgresql, Flask, Celery, Redis in my projects
 
 <!---
 annett21/annett21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
