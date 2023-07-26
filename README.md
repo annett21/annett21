@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hanna
-- 🌱 I’m currently learning FastApi, SQLModel, SQLAlchemy
+- 🌱 I’m currently learning FastApi, MongoDB, Beanie, SQLModel, SQLAlchemy
 - :thought_balloon: I use Python, Django REST, Postgresql, Flask, Celery, Redis in my projects
 
 <!---
