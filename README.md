@@ -26,4 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-![Snake animation](https://github.com/annett21/annett21/blob/output/github-contribution-grid-snake.svg)
